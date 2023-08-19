@@ -1,1 +1,1 @@
-"# alx-pre_course Task" 
+"# alx-pre_course"
