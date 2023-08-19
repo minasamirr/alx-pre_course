@@ -1,1 +1,2 @@
-"# alx-pre_course"
+
+"i am a software engineer studing in alx-pre_course"
